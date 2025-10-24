@@ -1,7 +1,11 @@
+import Hero from "@sections/Hero"
+import Laws from "@sections/Laws"
+
 const Main = () => {
   return (
     <main>
-      Main
+      <Hero />
+      <Laws />
     </main>
   )
 }
